@@ -18,15 +18,11 @@
 
 # \- UI Designs
 
-# \- Logos
-
 # 
 
 # \## Tools Used
 
 # \- Adobe Photoshop
-
-# \- Adobe Illustrator
 
 # \- Figma
 
@@ -34,7 +30,7 @@
 
 # 
 
-# 📩 Contact: your-email@example.com
+# 📩 Contact: oboubimakaveli@gmail.com
 
 
 
